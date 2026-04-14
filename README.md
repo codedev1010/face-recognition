@@ -1,6 +1,5 @@
 # Asymmetric Hybrid-NCRR for Robust Facial Recognition
 
-**Status: Active Development**
 
 This repository contains the Jupyter Notebook implementations of the **Asymmetric Hybrid Non-Convex Relaxation Regularized Regression (Hybrid-NCRR)** framework. This algorithm is engineered to perform highly accurate facial recognition under severe, unconstrained environmental degradation.
 
@@ -27,7 +26,7 @@ The optimization loop has been empirically tested and proven robust against thre
     * `black box occulusion(new penalty function).ipynb`
     * `mixedNoise(new penalty function).ipynb`
     * `pixel noise(new penalty function).ipynb`
-* `data/` *(if applicable)*: Directory for the $L_2$-normalized testing and training datasets.
+* `data/` : Directory for the $L_2$-normalized testing and training datasets.
 
 ## 🚀 Getting Started
 
