@@ -26,7 +26,7 @@ The optimization loop has been empirically tested and proven robust against thre
     * `black box occulusion(new penalty function).ipynb`
     * `mixedNoise(new penalty function).ipynb`
     * `pixel noise(new penalty function).ipynb`
-* `data/` : Directory for the $L_2$-normalized testing and training datasets.
+* `cropped/` : Directory for the dataset used in the work
 
 ## 🚀 Getting Started
 
